@@ -2,7 +2,7 @@
 <h3 align="left">iOS developer</h3>
 <img src="https://github.com/segmentio/analytics-ios/assets/32248030/96dff5ce-3efb-4bac-8952-46cb5b07e9bf" alt="sgarciaanato" width="100" height="100"/>
 
-<h2 align="left">Hey there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="30px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> Venezuelan in Chile</h2>
+<h2 align="left">Hey there, I am a Venezuelan in Chile <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="30px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></h2>
 <ul dir="auto">
 <li>I’m currently working on Cornershop By Uber Mobile App.</li>
 <li>I’m currently learning Designing for visionOS</li>
